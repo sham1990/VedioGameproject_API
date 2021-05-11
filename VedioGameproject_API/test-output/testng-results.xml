@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="4327" started-at="2021-05-11T03:17:50Z" finished-at="2021-05-11T03:17:54Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="4327" started-at="2021-05-11T03:17:50Z" finished-at="2021-05-11T03:17:54Z">
+      <class name="TestCases.Tc_VediogameAPI">
+        <test-method status="PASS" signature="test_GetallVedioGames()[pri:0, instance:TestCases.Tc_VediogameAPI@3c87521]" name="test_GetallVedioGames" duration-ms="2214" started-at="2021-05-11T03:17:50Z" finished-at="2021-05-11T03:17:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_GetallVedioGames -->
+        <test-method status="PASS" signature="test_AddnewVedioGame()[pri:2, instance:TestCases.Tc_VediogameAPI@3c87521]" name="test_AddnewVedioGame" duration-ms="623" started-at="2021-05-11T03:17:52Z" finished-at="2021-05-11T03:17:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_AddnewVedioGame -->
+        <test-method status="PASS" signature="test_GetViedioGame()[pri:3, instance:TestCases.Tc_VediogameAPI@3c87521]" name="test_GetViedioGame" duration-ms="1254" started-at="2021-05-11T03:17:53Z" finished-at="2021-05-11T03:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_GetViedioGame -->
+        <test-method status="PASS" signature="test_updateVedioGame()[pri:4, instance:TestCases.Tc_VediogameAPI@3c87521]" name="test_updateVedioGame" duration-ms="122" started-at="2021-05-11T03:17:54Z" finished-at="2021-05-11T03:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_updateVedioGame -->
+        <test-method status="PASS" signature="test_deleteVedioGame()[pri:5, instance:TestCases.Tc_VediogameAPI@3c87521]" name="test_deleteVedioGame" duration-ms="44" started-at="2021-05-11T03:17:54Z" finished-at="2021-05-11T03:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_deleteVedioGame -->
+      </class> <!-- TestCases.Tc_VediogameAPI -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
